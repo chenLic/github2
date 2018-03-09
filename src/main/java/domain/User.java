@@ -3,7 +3,7 @@ package domain;
 public class User {
     private int id;
     private String name;
-
+   
     public String getName() {
         return name;
     }
