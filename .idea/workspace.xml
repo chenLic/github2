@@ -341,6 +341,14 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+<<<<<<< Updated upstream
+=======
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+>>>>>>> Stashed changes
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -501,7 +509,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520583721527</updated>
+<<<<<<< Updated upstream
       <workItem from="1520583723884" duration="401000" />
+=======
+      <workItem from="1520583723884" duration="1885000" />
+>>>>>>> Stashed changes
     </task>
     <task id="LOCAL-00001" summary="this ssss">
       <created>1520583872537</created>
@@ -510,14 +522,57 @@
       <option name="project" value="LOCAL" />
       <updated>1520583872537</updated>
     </task>
+<<<<<<< Updated upstream
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="401000" />
+=======
+    <task id="LOCAL-00002" summary="this ssss   gdfg">
+      <created>1520584492330</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1520584492330</updated>
+    </task>
+    <task id="LOCAL-00003" summary="this ssss   gdfg  jhgfghhg">
+      <created>1520585201595</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1520585201595</updated>
+    </task>
+    <task id="LOCAL-00004" summary="this ssss   gdfg  jhgfghhg">
+      <created>1520585581541</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1520585581541</updated>
+    </task>
+    <task id="LOCAL-00005" summary="this ssss   gdfg  jhgfghhg">
+      <created>1520585590762</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1520585590762</updated>
+    </task>
+    <task id="LOCAL-00006" summary="this ssss   gdfg  jhgfghhg">
+      <created>1520585602683</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1520585602683</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1885000" />
+>>>>>>> Stashed changes
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
